@@ -38,6 +38,8 @@ This is to determine how many seeds we need to drop to reach the mean and varian
 # FILES:   "terminal_velocity.csv" - tv and mass data for all dropped seeds
 #
 #
+
+### Set working directory to "source file location" to make sure code works!
   
 
 # PROLOG   ##############################################################################
@@ -162,7 +164,7 @@ Now we take the data we measured and sample it to determine the number of trials
 ```{r, echo = TRUE, message = FALSE, warning=FALSE}
 ## Set up dataset
 set.seed(4)
-seeddat <- read_csv("terminal_velocity.csv")
+seeddat <- read_csv("../data/terminal_velocity.csv")
 
 #parameters
 reps <- 100
@@ -304,3 +306,8 @@ print(plot_grid(a, b, nrow = 1))
 ```
 
 In the end, we went with 10 replicates because it represented a close enough match to the mean for 20 seeds, and also not all species had more than 10 seeds to drop, so it was a good balance value for number of drops.
+
+
+
+
+
