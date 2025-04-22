@@ -1,66 +1,93 @@
 Species,specimen_identifier,individual_or_pop,number,mass,notes,date
-Zea_mays_ssp._parviglumis,Teosinte,,1,0.0348943,Beadle-ElSalada-1,
-Zea_mays_ssp._parviglumis,Teosinte,,2,0.036886,Beadle-ElSalada-2,
-Zea_mays_ssp._parviglumis,Teosinte,,3,0.0389505,Beadle-ElSalada-3,
-Zea_mays_ssp._parviglumis,Teosinte,,4,0.0347425,Beadle-ElSalada-4,
-Zea_mays_ssp._parviglumis,Teosinte,,5,0.0182238,Beadle-ElSalada-5,
-Zea_mays_ssp._parviglumis,Teosinte,,6,0.0540592,Beadle-ElSalada-6,
-Zea_mays_ssp._parviglumis,Teosinte,,7,0.0517803,Beadle-ElSalada-7,
-Zea_mays_ssp._parviglumis,Teosinte,,8,0.038814,Beadle-ElSalada-8,
-Zea_mays_ssp._parviglumis,Teosinte,,9,0.0205484,Beadle-ElSalada-9,
-Zea_mays_ssp._parviglumis,Teosinte,,10,0.0277813,Beadle-ElSalada-10,
+Anatherum_glomeratum,TK192-1,TK192,1,0.0004185,,
+Anatherum_glomeratum,TK192-2,TK192,2,0.0002603,,
+Anatherum_glomeratum,TK192-3,TK192,3,0.0002624,,
+Anatherum_glomeratum,TK192-4,TK192,4,0.0003248,,
+Anatherum_glomeratum,TK192-5,TK192,5,0.0003434,,
+Anatherum_glomeratum,TK192-6,TK192,6,0.0003261,,
+Anatherum_glomeratum,TK192-7,TK192,7,0.0003784,,
+Anatherum_glomeratum,TK192-8,TK192,8,0.000343,,
+Anatherum_glomeratum,TK192-9,TK192,9,0.0003098,,
+Anatherum_glomeratum,TK192-10,TK192,10,0.0003233,,
+Anatherum_virginicum,AUB015-8AL-1,8AL,1,0.0003206,,5-Apr-21
+Anatherum_virginicum,AUB015-8AL-2,8AL,2,0.0003355,,5-Apr-21
+Anatherum_virginicum,AUB015-8AL-3,8AL,3,0.0003307,,5-Apr-21
+Anatherum_virginicum,AUB015-8AL-4,8AL,4,0.0002532,,5-Apr-21
+Anatherum_virginicum,AUB015-8AL-5,8AL,5,0.0003841,,5-Apr-21
+Anatherum_virginicum,AUB015-8AL-6,8AL,6,0.0003083,,5-Apr-21
+Anatherum_virginicum,AUB015-8AL-7,8AL,7,0.0004233,,5-Apr-21
+Anatherum_virginicum,AUB015-8AL-8,8AL,8,0.000358,,5-Apr-21
+Anatherum_virginicum,AUB015-8AL-9,8AL,9,0.0003882,,5-Apr-21
+Anatherum_virginicum,AUB015-8AL-10,8AL,10,0.0003843,,5-Apr-21
+Anatherum_virginicum,AUB015-8AL-11,8AL,11,0.0003728,,5-Apr-21
+Anatherum_virginicum,AUB015-8AL-12,8AL,12,0.0003646,,5-Apr-21
+Anatherum_virginicum,AUB015-8AL-13,8AL,13,0.0002929,,5-Apr-21
+Anatherum_virginicum,AUB015-8AL-14,8AL,14,0.0003825,,5-Apr-21
+Anatherum_virginicum,AUB015-8AL-15,8AL,15,0.0003852,,5-Apr-21
+Anatherum_virginicum,AUB015-8AL-16,8AL,16,0.0002566,,5-Apr-21
+Anatherum_virginicum,AUB015-8AL-17,8AL,17,0.0003658,,5-Apr-21
+Anatherum_virginicum,AUB015-8AL-18,8AL,18,0.00033,,5-Apr-21
+Anatherum_virginicum,AUB015-8AL-19,8AL,19,0.0004119,,5-Apr-21
+Anatherum_virginicum,AUB015-8AL-20,8AL,20,0.0004074,,5-Apr-21
+Anatherum_virginicum,Kellogg1287-MO7-4,MO10,4,0.0003865,,5-Apr-21
+Anatherum_virginicum,Kellogg1287-MO7-5,MO11,5,0.0003755,,5-Apr-21
+Anatherum_virginicum,Kellogg1287-MO7-6,MO12,6,0.0003364,,5-Apr-21
+Anatherum_virginicum,Kellogg1287-MO7-7,MO13,7,0.0003907,,5-Apr-21
+Anatherum_virginicum,Kellogg1287-MO7-8,MO14,8,0.0003921,,5-Apr-21
+Anatherum_virginicum,Kellogg1287-MO7-9,MO15,9,0.0003714,,5-Apr-21
+Anatherum_virginicum,Kellogg1287-MO7-10,MO16,10,0.0003761,,5-Apr-21
+Anatherum_virginicum,Kellogg1287-MO7-11,MO17,11,0.0003713,,5-Apr-21
+Anatherum_virginicum,Kellogg1287-MO7-12,MO18,12,0.0004189,,5-Apr-21
+Anatherum_virginicum,Kellogg1287-MO7-13,MO19,13,0.000345,,5-Apr-21
+Anatherum_virginicum,Kellogg1287-MO7-14,MO20,14,0.0003467,,5-Apr-21
+Anatherum_virginicum,Kellogg1287-MO7-15,MO21,15,0.0003329,,5-Apr-21
+Anatherum_virginicum,Kellogg1287-MO7-16,MO22,16,0.0003083,,5-Apr-21
+Anatherum_virginicum,Kellogg1287-MO7-17,MO23,17,0.0002894,,5-Apr-21
+Anatherum_virginicum,Kellogg1287-MO7-18,MO24,18,0.0002682,,5-Apr-21
+Anatherum_virginicum,Kellogg1287-MO7-19,MO25,19,0.0003788,,5-Apr-21
+Anatherum_virginicum,Kellogg1287-MO7-20,MO26,20,0.0003571,,5-Apr-21
+Anatherum_virginicum,Kellogg1287-MO7-1,MO7,1,0.0002868,,5-Apr-21
+Anatherum_virginicum,Kellogg1287-MO7-2,MO8,2,0.0003062,,5-Apr-21
+Anatherum_virginicum,Kellogg1287-MO7-3,MO9,3,0.0003397,,5-Apr-21
 Andropogon_burmanicus,Traiperm512-1,Traiperm 512,1,0.003695,,
 Andropogon_burmanicus,Traiperm512-2,Traiperm 512,2,0.0034359,,
 Andropogon_burmanicus,Traiperm512-3,Traiperm 512,3,0.0034445,,
 Andropogon_burmanicus,Traiperm512-4,Traiperm 512,4,0.0035249,,
 Andropogon_burmanicus,Traiperm512-5,Traiperm 512,5,0.003657,,
 Andropogon_burmanicus,Traiperm512-6,Traiperm 512,6,0.0036889,,
-Chasmanthium_laxum,Kellogg1268C-1,Kellogg1268C,1,0.0014399,,
-Chasmanthium_laxum,Kellogg1268C-2,Kellogg1268C,2,0.0016325,,
-Chasmanthium_laxum,Kellogg1268C-3,Kellogg1268C,3,0.0015689,,
-Chasmanthium_laxum,Kellogg1268C-4,Kellogg1268C,4,0.0013812,,
-Chasmanthium_laxum,Kellogg1268C-5,Kellogg1268C,5,0.0017872,,
-Chasmanthium_laxum,Kellogg1268C-6,Kellogg1268C,6,0.0015597,,
-Chasmanthium_laxum,Kellogg1268C-7,Kellogg1268C,7,0.0019499,,
-Chasmanthium_laxum,Kellogg1268C-8,Kellogg1268C,8,0.0019803,,
-Chasmanthium_laxum,Kellogg1268C-9,Kellogg1268C,9,0.0017948,,
-Chasmanthium_laxum,Kellogg1268C-10,Kellogg1268C,10,0.0010164,,
-Kerriochloa_siamensis,Traiperm581-1,Traiperm 581,1,0.0025635,,
-Kerriochloa_siamensis,Traiperm581-2,Traiperm 582,2,0.002127,,
-Kerriochloa_siamensis,Traiperm581-3,Traiperm 583,3,0.0032088,,
-Ischaemum_rugosum,Traiperm511-1,Traiperm 511,1,0.0033274,,
-Ischaemum_rugosum,Traiperm511-2,Traiperm 511,2,0.0024063,,
-Ischaemum_rugosum,Traiperm511-3,Traiperm 511,3,0.0032234,,
-Ischaemum_rugosum,Traiperm511-4,Traiperm 511,4,0.0032205,,
-Ischaemum_rugosum,Traiperm511-5,Traiperm 511,5,0.0040008,,
-Ischaemum_rugosum,Traiperm511-6,Traiperm 511,6,0.0043624,,
-Ischaemum_rugosum,Traiperm511-7,Traiperm 511,7,0.0043217,,
-Ischaemum_rugosum,Traiperm511-8,Traiperm 511,8,0.0039181,,
-Ischaemum_rugosum,Traiperm511-9,Traiperm 511,9,0.0042488,,
-Ischaemum_rugosum,Traiperm511-10,Traiperm 511,10,0.0047296,,
-Andropogon_glomeratus,TK192-1,TK192,1,0.0004185,,
-Andropogon_glomeratus,TK192-2,TK192,2,0.0002603,might not be a seed,
-Andropogon_glomeratus,TK192-3,TK192,3,0.0002624,might not be a seed,
-Andropogon_glomeratus,TK192-4,TK192,4,0.0003248,,
-Andropogon_glomeratus,TK192-5,TK192,5,0.0003434,,
-Andropogon_glomeratus,TK192-6,TK192,6,0.0003261,,
-Andropogon_glomeratus,TK192-7,TK192,7,0.0003784,,
-Andropogon_glomeratus,TK192-8,TK192,8,0.000343,,
-Andropogon_glomeratus,TK192-9,TK192,9,0.0003098,,
-Andropogon_glomeratus,TK192-10,TK192,10,0.0003233,,
+Andropogon_gerardi,TP_LS-1,TP_LS,1,0.0050252,,6-Apr-22
+Andropogon_gerardi,TP_LS-2,TP_LS,2,0.0058073,,6-Apr-22
+Andropogon_gerardi,TP_LS-3,TP_LS,3,0.0051907,,6-Apr-22
+Andropogon_gerardi,TP_LS-4,TP_LS,4,0.0042467,,6-Apr-22
+Andropogon_gerardi,TP_LS-5,TP_LS,5,0.0058793,,6-Apr-22
+Andropogon_gerardi,TP_LS-6,TP_LS,6,0.0043964,,6-Apr-22
+Andropogon_gerardi,TP_LS-7,TP_LS,7,0.0044074,,6-Apr-22
+Andropogon_gerardi,TP_LS-8,TP_LS,8,0.0052086,,6-Apr-22
+Andropogon_gerardi,TP_LS-9,TP_LS,9,0.0043905,,6-Apr-22
+Andropogon_gerardi,TP_LS-10,TP_LS,10,0.0047074,,6-Apr-22
+Arthraxon_hispidus,IC5-Floyd-VA-1,IC5-Floyd-VA,1,0.0004526,,18-Aug-21
+Arthraxon_hispidus,IC5-Floyd-VA-2,IC5-Floyd-VA,2,0.0004716,,18-Aug-21
+Arthraxon_hispidus,IC5-Floyd-VA-3,IC5-Floyd-VA,3,0.0006158,,18-Aug-21
+Arthraxon_hispidus,IC5-Floyd-VA-4,IC5-Floyd-VA,4,0.0004216,,18-Aug-21
+Arthraxon_hispidus,IC5-Floyd-VA-5,IC5-Floyd-VA,5,0.0004173,,18-Aug-21
+Arthraxon_hispidus,IC5-Floyd-VA-6,IC5-Floyd-VA,6,0.0005256,,18-Aug-21
+Arthraxon_hispidus,IC5-Floyd-VA-7,IC5-Floyd-VA,7,0.0004698,,18-Aug-21
+Arthraxon_hispidus,IC5-Floyd-VA-8,IC5-Floyd-VA,8,0.0005614,,18-Aug-21
+Arthraxon_hispidus,IC5-Floyd-VA-9,IC5-Floyd-VA,9,0.0006658,,18-Aug-21
+Arthraxon_hispidus,IC5-Floyd-VA-10,IC5-Floyd-VA,10,0.0004072,,18-Aug-21
 Bothriochloa_laguroides,Aub84-2-1,2,1,0.0026033,,5-Apr-21
 Bothriochloa_laguroides,Aub84-2-2,2,2,0.0029485,,5-Apr-21
-Bothriochloa_laguroides,Aub84-2-3,2,3,0.0012764,might not be a good seed (mature),5-Apr-21
+Bothriochloa_laguroides,Aub84-2-3,2,3,0.0012764,,5-Apr-21
 Bothriochloa_laguroides,Aub84-2-4,2,4,0.0027404,,5-Apr-21
-Bothriochloa_laguroides,Aub84-2-5,2,5,0.0013818,might not be a good seed (mature),5-Apr-21
-Bothriochloa_laguroides,Aub84-2-6,2,6,0.0012546,might not be a good seed (mature),5-Apr-21
+Bothriochloa_laguroides,Aub84-2-5,2,5,0.0013818,,5-Apr-21
+Bothriochloa_laguroides,Aub84-2-6,2,6,0.0012546,,5-Apr-21
 Bothriochloa_laguroides,Aub84-2-7,2,7,0.0022181,,5-Apr-21
 Bothriochloa_laguroides,Aub84-2-8,2,8,0.0027452,,5-Apr-21
-Bothriochloa_laguroides,Aub84-2-9,2,9,0.0014544,might not be a good seed (mature),5-Apr-21
-Bothriochloa_laguroides,Aub84-2-10,2,10,0.0014066,might not be a good seed (mature),5-Apr-21
+Bothriochloa_laguroides,Aub84-2-9,2,9,0.0014544,,5-Apr-21
+Bothriochloa_laguroides,Aub84-2-10,2,10,0.0014066,,5-Apr-21
 Bothriochloa_laguroides,Aub84-2-11,2,11,0.0026007,,5-Apr-21
 Bothriochloa_laguroides,Aub84-2-12,2,12,0.0026472,,5-Apr-21
-Bothriochloa_laguroides,Aub84-2-13,2,13,0.0014672,might not have seed or be immature,5-Apr-21
+Bothriochloa_laguroides,Aub84-2-13,2,13,0.0014672,,5-Apr-21
 Bothriochloa_laguroides,Aub84-2-14,2,14,0.0021127,,5-Apr-21
 Bothriochloa_laguroides,Aub84-2-15,2,15,0.002652,,5-Apr-21
 Bothriochloa_laguroides,Aub84-2-16,2,16,0.0027871,,5-Apr-21
@@ -68,118 +95,16 @@ Bothriochloa_laguroides,Aub84-2-17,2,17,0.0025191,,5-Apr-21
 Bothriochloa_laguroides,Aub84-2-18,2,18,0.002704,,5-Apr-21
 Bothriochloa_laguroides,Aub84-2-19,2,19,0.0029453,,5-Apr-21
 Bothriochloa_laguroides,Aub84-2-20,2,20,0.0025586,,5-Apr-21
-Bothriochloa_laguroides,Aub78-TX1-1,TX1,1,0.0008886,,5-Apr-21
-Bothriochloa_laguroides,Aub78-TX1-2,TX1,2,0.0007939,,5-Apr-21
-Bothriochloa_laguroides,Aub78-TX1-3,TX1,3,0.00093,,5-Apr-21
-Bothriochloa_laguroides,Aub78-TX1-4,TX1,4,0.0007998,,5-Apr-21
-Bothriochloa_laguroides,Aub78-TX1-5,TX1,5,0.0008493,,5-Apr-21
-Bothriochloa_laguroides,Aub78-TX1-6,TX1,6,0.000955,,5-Apr-21
-Bothriochloa_laguroides,Aub78-TX1-7,TX1,7,,,5-Apr-21
-Bothriochloa_laguroides,Aub78-TX1-8,TX1,8,0.0008131,,5-Apr-21
-Bothriochloa_laguroides,Aub78-TX1-9,TX1,9,0.0008336,,5-Apr-21
-Bothriochloa_laguroides,Aub78-TX1-10,TX1,10,0.0008373,,5-Apr-21
-Bothriochloa_laguroides,Aub78-TX1-11,TX1,11,0.0009928,,5-Apr-21
-Bothriochloa_laguroides,Aub78-TX1-12,TX1,12,0.0008946,,5-Apr-21
-Bothriochloa_laguroides,Aub78-TX1-13,TX1,13,0.0010261,,5-Apr-21
-Bothriochloa_laguroides,Aub78-TX1-14,TX1,14,0.0007891,,5-Apr-21
-Bothriochloa_laguroides,Aub78-TX1-15,TX1,15,0.0011767,,5-Apr-21
-Bothriochloa_laguroides,Aub78-TX1-16,TX1,16,0.0008639,,5-Apr-21
-Bothriochloa_laguroides,Aub78-TX1-17,TX1,17,0.0008029,,5-Apr-21
-Bothriochloa_laguroides,Aub78-TX1-18,TX1,18,0.0008094,,5-Apr-21
-Bothriochloa_laguroides,Aub78-TX1-19,TX1,19,0.0004768,might not have seed or be immature,5-Apr-21
-Bothriochloa_laguroides,Aub78-TX1-20,TX1,20,0.0009028,,5-Apr-21
-Andropogon_virginicus,Kellogg1287-MO7-1,MO7,1,0.0002868,might not have seed or be immature,5-Apr-21
-Andropogon_virginicus,Kellogg1287-MO7-2,MO8,2,0.0003062,might not have seed or be immature,5-Apr-21
-Andropogon_virginicus,Kellogg1287-MO7-3,MO9,3,0.0003397,,5-Apr-21
-Andropogon_virginicus,Kellogg1287-MO7-4,MO10,4,0.0003865,,5-Apr-21
-Andropogon_virginicus,Kellogg1287-MO7-5,MO11,5,0.0003755,,5-Apr-21
-Andropogon_virginicus,Kellogg1287-MO7-6,MO12,6,0.0003364,,5-Apr-21
-Andropogon_virginicus,Kellogg1287-MO7-7,MO13,7,0.0003907,,5-Apr-21
-Andropogon_virginicus,Kellogg1287-MO7-8,MO14,8,0.0003921,,5-Apr-21
-Andropogon_virginicus,Kellogg1287-MO7-9,MO15,9,0.0003714,,5-Apr-21
-Andropogon_virginicus,Kellogg1287-MO7-10,MO16,10,0.0003761,,5-Apr-21
-Andropogon_virginicus,Kellogg1287-MO7-11,MO17,11,0.0003713,,5-Apr-21
-Andropogon_virginicus,Kellogg1287-MO7-12,MO18,12,0.0004189,,5-Apr-21
-Andropogon_virginicus,Kellogg1287-MO7-13,MO19,13,0.000345,,5-Apr-21
-Andropogon_virginicus,Kellogg1287-MO7-14,MO20,14,0.0003467,,5-Apr-21
-Andropogon_virginicus,Kellogg1287-MO7-15,MO21,15,0.0003329,,5-Apr-21
-Andropogon_virginicus,Kellogg1287-MO7-16,MO22,16,0.0003083,might not have seed or be immature,5-Apr-21
-Andropogon_virginicus,Kellogg1287-MO7-17,MO23,17,0.0002894,might not have seed or be immature,5-Apr-21
-Andropogon_virginicus,Kellogg1287-MO7-18,MO24,18,0.0002682,might not have seed or be immature,5-Apr-21
-Andropogon_virginicus,Kellogg1287-MO7-19,MO25,19,0.0003788,,5-Apr-21
-Andropogon_virginicus,Kellogg1287-MO7-20,MO26,20,0.0003571,,5-Apr-21
-Andropogon_virginicus,AUB015-8AL-1,8AL,1,0.0003206,,5-Apr-21
-Andropogon_virginicus,AUB015-8AL-2,8AL,2,0.0003355,,5-Apr-21
-Andropogon_virginicus,AUB015-8AL-3,8AL,3,0.0003307,,5-Apr-21
-Andropogon_virginicus,AUB015-8AL-4,8AL,4,0.0002532,,5-Apr-21
-Andropogon_virginicus,AUB015-8AL-5,8AL,5,0.0003841,,5-Apr-21
-Andropogon_virginicus,AUB015-8AL-6,8AL,6,0.0003083,,5-Apr-21
-Andropogon_virginicus,AUB015-8AL-7,8AL,7,0.0004233,,5-Apr-21
-Andropogon_virginicus,AUB015-8AL-8,8AL,8,0.000358,,5-Apr-21
-Andropogon_virginicus,AUB015-8AL-9,8AL,9,0.0003882,,5-Apr-21
-Andropogon_virginicus,AUB015-8AL-10,8AL,10,0.0003843,,5-Apr-21
-Andropogon_virginicus,AUB015-8AL-11,8AL,11,0.0003728,,5-Apr-21
-Andropogon_virginicus,AUB015-8AL-12,8AL,12,0.0003646,,5-Apr-21
-Andropogon_virginicus,AUB015-8AL-13,8AL,13,0.0002929,,5-Apr-21
-Andropogon_virginicus,AUB015-8AL-14,8AL,14,0.0003825,,5-Apr-21
-Andropogon_virginicus,AUB015-8AL-15,8AL,15,0.0003852,,5-Apr-21
-Andropogon_virginicus,AUB015-8AL-16,8AL,16,0.0002566,,5-Apr-21
-Andropogon_virginicus,AUB015-8AL-17,8AL,17,0.0003658,,5-Apr-21
-Andropogon_virginicus,AUB015-8AL-18,8AL,18,0.00033,,5-Apr-21
-Andropogon_virginicus,AUB015-8AL-19,8AL,19,0.0004119,,5-Apr-21
-Andropogon_virginicus,AUB015-8AL-20,8AL,20,0.0004074,,5-Apr-21
-Schizachyrium_scoparium,Aub014-5AL-1,5AL,1,0.0027232,,5-Apr-21
-Schizachyrium_scoparium,Aub014-5AL-2,5AL,2,0.0026562,,5-Apr-21
-Schizachyrium_scoparium,Aub014-5AL-3,5AL,3,0.0023489,,5-Apr-21
-Schizachyrium_scoparium,Aub014-5AL-4,5AL,4,0.0025866,,5-Apr-21
-Schizachyrium_scoparium,Aub014-5AL-5,5AL,5,0.0024691,,5-Apr-21
-Schizachyrium_scoparium,Aub014-5AL-6,5AL,6,0.0023799,,5-Apr-21
-Schizachyrium_scoparium,Aub014-5AL-7,5AL,7,0.0022527,,5-Apr-21
-Schizachyrium_scoparium,Aub014-5AL-8,5AL,8,0.0028028,,5-Apr-21
-Schizachyrium_scoparium,Aub014-5AL-9,5AL,9,0.0024491,,5-Apr-21
-Schizachyrium_scoparium,Aub014-5AL-10,5AL,10,0.0025131,,5-Apr-21
-Schizachyrium_scoparium,Aub014-5AL-11,5AL,11,0.0025185,,5-Apr-21
-Schizachyrium_scoparium,Aub014-5AL-12,5AL,12,0.0021101,,5-Apr-21
-Schizachyrium_scoparium,Aub014-5AL-13,5AL,13,0.0018216,definitely a seed but may not be fully mature.,6-Apr-21
-Schizachyrium_scoparium,Aub014-5AL-14,5AL,14,0.0024081,,6-Apr-21
-Schizachyrium_scoparium,Aub014-5AL-15,5AL,15,0.0023175,,6-Apr-21
-Schizachyrium_scoparium,Aub014-5AL-16,5AL,16,0.0024813,,6-Apr-21
-Schizachyrium_scoparium,Aub014-5AL-17,5AL,17,0.0026036,,
-Bothriochloa_laguroides,Kellogg 1279-NM2-1,NM2,1,0.0039693,,6-Apr-21
-Bothriochloa_laguroides,Kellogg 1279-NM2-2,NM2,2,0.003403,,6-Apr-21
-Bothriochloa_laguroides,Kellogg 1279-NM2-3,NM2,3,0.0041916,,6-Apr-21
-Bothriochloa_laguroides,Kellogg 1279-NM2-4,NM2,4,0.0041755,,6-Apr-21
-Bothriochloa_laguroides,Kellogg 1279-NM2-5,NM2,5,0.0041116,,6-Apr-21
-Bothriochloa_laguroides,Kellogg 1279-NM2-6,NM2,6,0.0040103,,6-Apr-21
-Bothriochloa_laguroides,Kellogg 1279-NM2-7,NM2,7,0.0042155,,6-Apr-21
-Bothriochloa_laguroides,Kellogg 1279-NM2-8,NM2,8,0.0039031,,6-Apr-21
-Bothriochloa_laguroides,Kellogg 1279-NM2-9,NM2,9,0.0044761,,6-Apr-21
-Bothriochloa_laguroides,Kellogg 1279-NM2-10,NM2,10,0.0039499,,6-Apr-21
-Bothriochloa_laguroides,Kellogg 1279-NM2-11,NM2,11,0.0044917,,6-Apr-21
-Bothriochloa_laguroides,Kellogg 1279-NM2-12,NM2,12,0.004231,,6-Apr-21
-Bothriochloa_laguroides,Kellogg 1279-NM2-13,NM2,13,0.0044408,,6-Apr-21
-Bothriochloa_laguroides,Kellogg 1279-NM2-14,NM2,14,0.0042154,,6-Apr-21
-Bothriochloa_laguroides,Kellogg 1279-NM2-15,NM2,15,0.0043897,,6-Apr-21
-Bothriochloa_laguroides,Kellogg 1279-NM2-16,NM2,16,0.0041242,,6-Apr-21
-Bothriochloa_laguroides,Kellogg 1279-NM2-17,NM2,17,0.0045166,,6-Apr-21
-Bothriochloa_laguroides,Kellogg 1279-NM2-18,NM2,18,0.0042683,,6-Apr-21
-Bothriochloa_laguroides,Kellogg 1279-NM2-19,NM2,19,0.0045736,,6-Apr-21
-Bothriochloa_laguroides,Kellogg 1279-NM2-20,NM2,20,0.0042088,,6-Apr-21
-Themeda_triandra,TK504-1,TK504,1,0.0049767,,6-Apr-21
-Themeda_triandra,TK504-2,TK504,2,0.003513,Probably missing seed,6-Apr-21
-Themeda_triandra,TK504-3,TK504,3,0.0062618,,6-Apr-21
-Themeda_triandra,TK504-4,TK504,4,0.0046422,maybe immature,6-Apr-21
-Themeda_triandra,TK504-5,TK504,5,0.0043218,Probably missing seed,6-Apr-21
-Themeda_triandra,TK504-6,TK504,6,0.0070862,,6-Apr-21
-Themeda_triandra,TK504-7,TK504,7,0.006381,,6-Apr-21
-Themeda_triandra,TK504-8,TK504,8,0.0053483,,6-Apr-21
-Themeda_triandra,TK504-9,TK504,9,0.00504,,6-Apr-21
-Themeda_triandra,TK504-10,TK504,10,0.0041483,,6-Apr-21
-Themeda_triandra,TK504-11,TK504,11,0.0060564,,6-Apr-21
-Themeda_triandra,TK504-12,TK504,12,0.0084682,,6-Apr-21
-Themeda_triandra,TK504-13,TK504,13,0.0045698,,6-Apr-21
-Themeda_triandra,TK504-14,TK504,14,0.0065606,,6-Apr-21
-Themeda_triandra,TK504-15,TK504,15,0.0052606,,6-Apr-21
+Bothriochloa_laguroides,empty-1,empty,1,0.0022715,,18-Aug-21
+Bothriochloa_laguroides,empty-2,empty,2,0.002912,,18-Aug-21
+Bothriochloa_laguroides,empty-3,empty,3,0.0030218,,18-Aug-21
+Bothriochloa_laguroides,empty-4,empty,4,0.003929,,18-Aug-21
+Bothriochloa_laguroides,empty-5,empty,5,0.001847,,18-Aug-21
+Bothriochloa_laguroides,empty-6,empty,6,0.0031596,,18-Aug-21
+Bothriochloa_laguroides,empty-7,empty,7,0.0030392,,18-Aug-21
+Bothriochloa_laguroides,empty-8,empty,8,0.0027302,,18-Aug-21
+Bothriochloa_laguroides,empty-9,empty,9,0.0022448,,18-Aug-21
+Bothriochloa_laguroides,empty-10,empty,10,0.0025224,,18-Aug-21
 Bothriochloa_laguroides,AUB011-KATY2-1,KATY2,1,0.0014133,,6-Apr-21
 Bothriochloa_laguroides,AUB011-KATY2-2,KATY2,2,0.0011058,,6-Apr-21
 Bothriochloa_laguroides,AUB011-KATY2-3,KATY2,3,0.0010397,,6-Apr-21
@@ -200,11 +125,206 @@ Bothriochloa_laguroides,AUB011-KATY2-17,KATY2,17,0.0010607,,6-Apr-21
 Bothriochloa_laguroides,AUB011-KATY2-18,KATY2,18,0.0010145,,6-Apr-21
 Bothriochloa_laguroides,AUB011-KATY2-19,KATY2,19,0.0014137,,6-Apr-21
 Bothriochloa_laguroides,AUB011-KATY2-20,KATY2,20,0.0015665,,6-Apr-21
-Hyparrhenia_finitima,TK237-1,TK237,1,0.0020117,,6-Apr-21
-Hyparrhenia_finitima,TK237-2,TK237,2,0.0023759,,6-Apr-21
-Hyparrhenia_finitima,TK237-3,TK237,3,0.0015676,,6-Apr-21
-Hyparrhenia_finitima,TK237-4,TK237,4,0.0024663,,6-Apr-21
-Hyparrhenia_finitima,TK237-5,TK237,5,0.0019858,,6-Apr-21
+Bothriochloa_laguroides,Kellogg 1279-NM2-1,NM2,1,0.0039693,,6-Apr-21
+Bothriochloa_laguroides,Kellogg 1279-NM2-2,NM2,2,0.003403,,6-Apr-21
+Bothriochloa_laguroides,Kellogg 1279-NM2-3,NM2,3,0.0041916,,6-Apr-21
+Bothriochloa_laguroides,Kellogg 1279-NM2-4,NM2,4,0.0041755,,6-Apr-21
+Bothriochloa_laguroides,Kellogg 1279-NM2-5,NM2,5,0.0041116,,6-Apr-21
+Bothriochloa_laguroides,Kellogg 1279-NM2-6,NM2,6,0.0040103,,6-Apr-21
+Bothriochloa_laguroides,Kellogg 1279-NM2-7,NM2,7,0.0042155,,6-Apr-21
+Bothriochloa_laguroides,Kellogg 1279-NM2-8,NM2,8,0.0039031,,6-Apr-21
+Bothriochloa_laguroides,Kellogg 1279-NM2-9,NM2,9,0.0044761,,6-Apr-21
+Bothriochloa_laguroides,Kellogg 1279-NM2-10,NM2,10,0.0039499,,6-Apr-21
+Bothriochloa_laguroides,Kellogg 1279-NM2-11,NM2,11,0.0044917,,6-Apr-21
+Bothriochloa_laguroides,Kellogg 1279-NM2-12,NM2,12,0.004231,,6-Apr-21
+Bothriochloa_laguroides,Kellogg 1279-NM2-13,NM2,13,0.0044408,,6-Apr-21
+Bothriochloa_laguroides,Kellogg 1279-NM2-14,NM2,14,0.0042154,,6-Apr-21
+Bothriochloa_laguroides,Kellogg 1279-NM2-15,NM2,15,0.0043897,,6-Apr-21
+Bothriochloa_laguroides,Kellogg 1279-NM2-16,NM2,16,0.0041242,,6-Apr-21
+Bothriochloa_laguroides,Kellogg 1279-NM2-17,NM2,17,0.0045166,,6-Apr-21
+Bothriochloa_laguroides,Kellogg 1279-NM2-18,NM2,18,0.0042683,,6-Apr-21
+Bothriochloa_laguroides,Kellogg 1279-NM2-19,NM2,19,0.0045736,,6-Apr-21
+Bothriochloa_laguroides,Kellogg 1279-NM2-20,NM2,20,0.0042088,,6-Apr-21
+Bothriochloa_laguroides,Aub78-TX1-1,TX1,1,0.0008886,,5-Apr-21
+Bothriochloa_laguroides,Aub78-TX1-2,TX1,2,0.0007939,,5-Apr-21
+Bothriochloa_laguroides,Aub78-TX1-3,TX1,3,0.00093,,5-Apr-21
+Bothriochloa_laguroides,Aub78-TX1-4,TX1,4,0.0007998,,5-Apr-21
+Bothriochloa_laguroides,Aub78-TX1-5,TX1,5,0.0008493,,5-Apr-21
+Bothriochloa_laguroides,Aub78-TX1-6,TX1,6,0.000955,,5-Apr-21
+Bothriochloa_laguroides,Aub78-TX1-7,TX1,7,,,5-Apr-21
+Bothriochloa_laguroides,Aub78-TX1-8,TX1,8,0.0008131,,5-Apr-21
+Bothriochloa_laguroides,Aub78-TX1-9,TX1,9,0.0008336,,5-Apr-21
+Bothriochloa_laguroides,Aub78-TX1-10,TX1,10,0.0008373,,5-Apr-21
+Bothriochloa_laguroides,Aub78-TX1-11,TX1,11,0.0009928,,5-Apr-21
+Bothriochloa_laguroides,Aub78-TX1-12,TX1,12,0.0008946,,5-Apr-21
+Bothriochloa_laguroides,Aub78-TX1-13,TX1,13,0.0010261,,5-Apr-21
+Bothriochloa_laguroides,Aub78-TX1-14,TX1,14,0.0007891,,5-Apr-21
+Bothriochloa_laguroides,Aub78-TX1-15,TX1,15,0.0011767,,5-Apr-21
+Bothriochloa_laguroides,Aub78-TX1-16,TX1,16,0.0008639,,5-Apr-21
+Bothriochloa_laguroides,Aub78-TX1-17,TX1,17,0.0008029,,5-Apr-21
+Bothriochloa_laguroides,Aub78-TX1-18,TX1,18,0.0008094,,5-Apr-21
+Bothriochloa_laguroides,Aub78-TX1-19,TX1,19,0.0004768,,5-Apr-21
+Bothriochloa_laguroides,Aub78-TX1-20,TX1,20,0.0009028,,5-Apr-21
+Capillipedium_spicigerum,PI301773-1,PI301773,1,0.0007299,,5-Apr-22
+Capillipedium_spicigerum,PI301773-2,PI301773,2,0.0007458,,5-Apr-22
+Capillipedium_spicigerum,PI301773-3,PI301773,3,0.0007809,,5-Apr-22
+Capillipedium_spicigerum,PI301773-4,PI301773,4,0.0007758,,5-Apr-22
+Capillipedium_spicigerum,PI301773-5,PI301773,5,0.000756,,5-Apr-22
+Capillipedium_spicigerum,PI301773-6,PI301773,6,0.00078,,5-Apr-22
+Capillipedium_spicigerum,PI301773-7,PI301773,7,0.0008955,,5-Apr-22
+Capillipedium_spicigerum,PI301773-8,PI301773,8,0.0008454,,5-Apr-22
+Capillipedium_spicigerum,PI301773-9,PI301773,9,0.0008021,,5-Apr-22
+Capillipedium_spicigerum,PI301773-10,PI301773,10,0.0008235,,5-Apr-22
+Chasmanthium_laxum,Kellogg1268C-1,Kellogg1268C,1,0.0014399,,
+Chasmanthium_laxum,Kellogg1268C-2,Kellogg1268C,2,0.0016325,,
+Chasmanthium_laxum,Kellogg1268C-3,Kellogg1268C,3,0.0015689,,
+Chasmanthium_laxum,Kellogg1268C-4,Kellogg1268C,4,0.0013812,,
+Chasmanthium_laxum,Kellogg1268C-5,Kellogg1268C,5,0.0017872,,
+Chasmanthium_laxum,Kellogg1268C-6,Kellogg1268C,6,0.0015597,,
+Chasmanthium_laxum,Kellogg1268C-7,Kellogg1268C,7,0.0019499,,
+Chasmanthium_laxum,Kellogg1268C-8,Kellogg1268C,8,0.0019803,,
+Chasmanthium_laxum,Kellogg1268C-9,Kellogg1268C,9,0.0017948,,
+Chasmanthium_laxum,Kellogg1268C-10,Kellogg1268C,10,0.0010164,,
+Cymbopogon_refractus,AUB65-1,AUB65,1,0.0013767,,16-Aug-21
+Cymbopogon_refractus,AUB65-2,AUB65,2,0.00141,,16-Aug-21
+Cymbopogon_refractus,AUB65-3,AUB65,3,0.0013225,,16-Aug-21
+Cymbopogon_refractus,AUB65-4,AUB65,4,0.0013665,,16-Aug-21
+Cymbopogon_refractus,AUB65-5,AUB65,5,0.001325,,16-Aug-21
+Cymbopogon_refractus,AUB65-6,AUB65,6,0.0015026,,16-Aug-21
+Cymbopogon_refractus,AUB65-7,AUB65,7,0.0013222,,16-Aug-21
+Cymbopogon_refractus,AUB65-8,AUB65,8,0.0012386,,16-Aug-21
+Cymbopogon_refractus,AUB65-9,AUB65,9,0.0013768,,16-Aug-21
+Cymbopogon_refractus,AUB65-10,AUB65,10,0.0012202,,16-Aug-21
+Elionurus_tripsacoides,TK198-1,TK198,1,0.0039639,,6-Apr-22
+Elionurus_tripsacoides,TK198-2,TK198,2,0.0035046,,6-Apr-22
+Elionurus_tripsacoides,TK198-3,TK198,3,0.0035607,,6-Apr-22
+Elionurus_tripsacoides,TK198-4,TK198,4,0.0036408,,6-Apr-22
+Elionurus_tripsacoides,TK198-5,TK198,5,0.0037885,,6-Apr-22
+Elionurus_tripsacoides,TK198-6,TK198,6,0.0039705,,6-Apr-22
+Elionurus_tripsacoides,TK198-7,TK198,7,0.0044383,,6-Apr-22
+Elionurus_tripsacoides,TK198-8,TK198,8,0.0052825,,6-Apr-22
+Elionurus_tripsacoides,TK198-9,TK198,9,0.0041746,,6-Apr-22
+Elionurus_tripsacoides,TK198-10,TK198,10,0.0035607,,6-Apr-22
+Hyparrhenia_diplandra,TK307-1,TK307-Pasquet1220,1,0.0074054,,5-Apr-22
+Hyparrhenia_diplandra,TK307-2,TK307-Pasquet1220,2,0.0071207,,5-Apr-22
+Hyparrhenia_diplandra,TK307-3,TK307-Pasquet1220,3,0.0070128,,5-Apr-22
+Hyparrhenia_diplandra,TK307-4,TK307-Pasquet1220,4,0.0067301,,5-Apr-22
+Hyparrhenia_diplandra,TK307-5,TK307-Pasquet1220,5,0.0064934,,5-Apr-22
+Hyparrhenia_diplandra,TK307-6,TK307-Pasquet1220,6,0.0063706,,5-Apr-22
+Hyparrhenia_diplandra,TK307-7,TK307-Pasquet1220,7,0.006534,,5-Apr-22
+Hyparrhenia_diplandra,TK307-8,TK307-Pasquet1220,8,0.0066662,,5-Apr-22
+Hyparrhenia_diplandra,TK307-9,TK307-Pasquet1220,9,0.0064987,,5-Apr-22
+Hyparrhenia_diplandra,TK307-10,TK307-Pasquet1220,10,0.0066011,,5-Apr-22
+Hyparrhenia_filipendula,empty-1,empty,1,0.0012172,,18-Aug-21
+Hyparrhenia_filipendula,empty-2,empty,2,0.0011769,,18-Aug-21
+Hyparrhenia_filipendula,empty-3,empty,3,0.0010317,,18-Aug-21
+Hyparrhenia_filipendula,empty-4,empty,4,0.0010472,,18-Aug-21
+Hyparrhenia_filipendula,empty-5,empty,5,0.0010568,,18-Aug-21
+Hyparrhenia_filipendula,empty-6,empty,6,0.0009471,,18-Aug-21
+Hyparrhenia_filipendula,empty-7,empty,7,0.0004909,,18-Aug-21
+Hyparrhenia_filipendula,empty-8,empty,8,0.0014275,,18-Aug-21
+Hyparrhenia_filipendula,empty-9,empty,9,0.0012319,,18-Aug-21
+Hyparrhenia_filipendula,empty-10,empty,10,0.0006348,,18-Aug-21
+Hyparrhenia_filipendula,TK237-1,TK237,1,0.0020117,,6-Apr-21
+Hyparrhenia_filipendula,TK237-2,TK237,2,0.0023759,,6-Apr-21
+Hyparrhenia_filipendula,TK237-3,TK237,3,0.0015676,,6-Apr-21
+Hyparrhenia_filipendula,TK237-4,TK237,4,0.0024663,,6-Apr-21
+Hyparrhenia_filipendula,TK237-5,TK237,5,0.0019858,,6-Apr-21
+Hyparrhenia_filipendula,TK237-6,TK237,6,0.001837,,18-Aug-21
+Hyparrhenia_filipendula,TK237-7,TK237,7,0.0018721,,18-Aug-21
+Hyparrhenia_filipendula,TK237-8,TK237,8,0.0018176,,18-Aug-21
+Hyparrhenia_filipendula,TK237-9,TK237,9,0.0022555,,18-Aug-21
+Hyparrhenia_filipendula,TK237-10,TK237,10,0.0020756,,18-Aug-21
+Hyparrhenia_hirta,PI315595-1,PI315595,1,0.0013718,,4-Apr-22
+Hyparrhenia_hirta,PI315595-2,PI315595,2,0.0012728,,4-Apr-22
+Hyparrhenia_hirta,PI315595-3,PI315595,3,0.0014276,,4-Apr-22
+Hyparrhenia_hirta,PI315595-4,PI315595,4,0.0013732,,4-Apr-22
+Hyparrhenia_hirta,PI315595-5,PI315595,5,0.0013098,,4-Apr-22
+Hyparrhenia_hirta,PI315595-6,PI315595,6,0.0017144,,4-Apr-22
+Hyparrhenia_hirta,PI315595-7,PI315595,7,0.0014849,,4-Apr-22
+Hyparrhenia_hirta,PI315595-8,PI315595,8,0.0013763,,4-Apr-22
+Hyparrhenia_hirta,PI315595-9,PI315595,9,0.0015162,,4-Apr-22
+Hyparrhenia_hirta,PI315595-10,PI315595,10,0.0016517,,4-Apr-22
+Ischaemum_rugosum,Traiperm511-1,Traiperm 511,1,0.0033274,,
+Ischaemum_rugosum,Traiperm511-2,Traiperm 511,2,0.0024063,,
+Ischaemum_rugosum,Traiperm511-3,Traiperm 511,3,0.0032234,,
+Ischaemum_rugosum,Traiperm511-4,Traiperm 511,4,0.0032205,,
+Ischaemum_rugosum,Traiperm511-5,Traiperm 511,5,0.0040008,,
+Ischaemum_rugosum,Traiperm511-6,Traiperm 511,6,0.0043624,,
+Ischaemum_rugosum,Traiperm511-7,Traiperm 511,7,0.0043217,,
+Ischaemum_rugosum,Traiperm511-8,Traiperm 511,8,0.0039181,,
+Ischaemum_rugosum,Traiperm511-9,Traiperm 511,9,0.0042488,,
+Ischaemum_rugosum,Traiperm511-10,Traiperm 511,10,0.0047296,,
+Kerriochloa_siamensis,Traiperm581-1,Traiperm 581,1,0.0025635,,
+Kerriochloa_siamensis,Traiperm581-2,Traiperm 582,2,0.002127,,
+Kerriochloa_siamensis,Traiperm581-3,Traiperm 583,3,0.0032088,,
+Pogonatherum_paniceum,TK072-1,TK072-Clark,1,0.0001636,,6-Apr-22
+Pogonatherum_paniceum,TK072-2,TK072-Clark,2,0.0001779,,6-Apr-22
+Pogonatherum_paniceum,TK072-3,TK072-Clark,3,0.0001706,,6-Apr-22
+Pogonatherum_paniceum,TK072-4,TK072-Clark,4,0.0001716,,6-Apr-22
+Pogonatherum_paniceum,TK072-5,TK072-Clark,5,0.0002379,,6-Apr-22
+Pogonatherum_paniceum,TK072-6,TK072-Clark,6,0.0001875,,6-Apr-22
+Pogonatherum_paniceum,TK072-7,TK072-Clark,7,0.0001882,,6-Apr-22
+Pogonatherum_paniceum,TK072-8,TK072-Clark,8,0.0001874,,6-Apr-22
+Pogonatherum_paniceum,TK072-9,TK072-Clark,9,0.0001798,,6-Apr-22
+Pogonatherum_paniceum,TK072-10,TK072-Clark,10,0.0001683,,6-Apr-22
+Rottboellia_tuberculosa,TK199-1,TK199,1,0.0061476,,16-Aug-21
+Rottboellia_tuberculosa,TK199-2,TK199,2,0.005483,,16-Aug-21
+Rottboellia_tuberculosa,TK199-3,TK199,3,0.0053273,,16-Aug-21
+Rottboellia_tuberculosa,TK199-4,TK199,4,0.0058266,,16-Aug-21
+Rottboellia_tuberculosa,TK199-5,TK199,5,0.0055895,,16-Aug-21
+Rottboellia_tuberculosa,TK199-6,TK199,6,0.005351,,16-Aug-21
+Rottboellia_tuberculosa,TK199-7,TK199,7,0.0062431,,16-Aug-21
+Rottboellia_tuberculosa,TK199-8,TK199,8,0.0051064,,16-Aug-21
+Rottboellia_tuberculosa,TK199-9,TK199,9,0.0058763,,16-Aug-21
+Rottboellia_tuberculosa,TK199-10,TK199,10,0.0053307,,16-Aug-21
+Saccharum_contortum,IC4-VA-1,IC4-Kinsvale-VA,1,0.003924,,5-Apr-22
+Saccharum_contortum,IC4-VA-2,IC4-Kinsvale-VA,2,0.0042824,,5-Apr-22
+Saccharum_contortum,IC4-VA-3,IC4-Kinsvale-VA,3,0.0032722,,5-Apr-22
+Saccharum_contortum,IC4-VA-4,IC4-Kinsvale-VA,4,0.0036289,,5-Apr-22
+Saccharum_contortum,IC4-VA-5,IC4-Kinsvale-VA,5,0.0033584,,5-Apr-22
+Saccharum_contortum,IC4-VA-6,IC4-Kinsvale-VA,6,0.0033512,,5-Apr-22
+Saccharum_contortum,IC4-VA-7,IC4-Kinsvale-VA,7,0.0033902,,5-Apr-22
+Saccharum_contortum,IC4-VA-8,IC4-Kinsvale-VA,8,0.0025545,,5-Apr-22
+Saccharum_contortum,IC4-VA-9,IC4-Kinsvale-VA,9,0.0024316,,5-Apr-22
+Saccharum_contortum,IC4-VA-10,IC4-Kinsvale-VA,10,0.0024684,,5-Apr-22
+Schizachyrium_scoparium,Aub014-5AL-1,5AL,1,0.0027232,,5-Apr-21
+Schizachyrium_scoparium,Aub014-5AL-2,5AL,2,0.0026562,,5-Apr-21
+Schizachyrium_scoparium,Aub014-5AL-3,5AL,3,0.0023489,,5-Apr-21
+Schizachyrium_scoparium,Aub014-5AL-4,5AL,4,0.0025866,,5-Apr-21
+Schizachyrium_scoparium,Aub014-5AL-5,5AL,5,0.0024691,,5-Apr-21
+Schizachyrium_scoparium,Aub014-5AL-6,5AL,6,0.0023799,,5-Apr-21
+Schizachyrium_scoparium,Aub014-5AL-7,5AL,7,0.0022527,,5-Apr-21
+Schizachyrium_scoparium,Aub014-5AL-8,5AL,8,0.0028028,,5-Apr-21
+Schizachyrium_scoparium,Aub014-5AL-9,5AL,9,0.0024491,,5-Apr-21
+Schizachyrium_scoparium,Aub014-5AL-10,5AL,10,0.0025131,,5-Apr-21
+Schizachyrium_scoparium,Aub014-5AL-11,5AL,11,0.0025185,,5-Apr-21
+Schizachyrium_scoparium,Aub014-5AL-12,5AL,12,0.0021101,,5-Apr-21
+Schizachyrium_scoparium,Aub014-5AL-13,5AL,13,0.0018216,,6-Apr-21
+Schizachyrium_scoparium,Aub014-5AL-14,5AL,14,0.0024081,,6-Apr-21
+Schizachyrium_scoparium,Aub014-5AL-15,5AL,15,0.0023175,,6-Apr-21
+Schizachyrium_scoparium,Aub014-5AL-16,5AL,16,0.0024813,,6-Apr-21
+Schizachyrium_scoparium,Aub014-5AL-17,5AL,17,0.0026036,,
+Sorghastrum_elliottii,PI-674985-1,PI-674985,1,0.0015008,,18-Aug-21
+Sorghastrum_elliottii,PI-674985-2,PI-674985,2,0.0019931,,18-Aug-21
+Sorghastrum_elliottii,PI-674985-3,PI-674985,3,0.0016042,,18-Aug-21
+Sorghastrum_elliottii,PI-674985-4,PI-674985,4,0.0017169,,18-Aug-21
+Sorghastrum_elliottii,PI-674985-5,PI-674985,5,0.0015882,,18-Aug-21
+Sorghastrum_elliottii,PI-674985-6,PI-674985,6,0.0015267,,18-Aug-21
+Sorghastrum_elliottii,PI-674985-7,PI-674985,7,0.0016377,,18-Aug-21
+Sorghastrum_elliottii,PI-674985-8,PI-674985,8,0.0016995,,18-Aug-21
+Sorghastrum_elliottii,PI-674985-9,PI-674985,9,0.0016113,,18-Aug-21
+Sorghastrum_elliottii,PI-674985-10,PI-674985,10,0.0016587,,18-Aug-21
+Sorghastrum_nutans,TP_KW-1,TP_KW,1,0.0039219,,5-Apr-22
+Sorghastrum_nutans,TP_KW-2,TP_KW,2,0.0036703,,5-Apr-22
+Sorghastrum_nutans,TP_KW-3,TP_KW,3,0.0041578,,5-Apr-22
+Sorghastrum_nutans,TP_KW-4,TP_KW,4,0.0044373,,5-Apr-22
+Sorghastrum_nutans,TP_KW-5,TP_KW,5,0.004998,,5-Apr-22
+Sorghastrum_nutans,TP_KW-6,TP_KW,6,0.0042134,,5-Apr-22
+Sorghastrum_nutans,TP_KW-7,TP_KW,7,0.0050292,,5-Apr-22
+Sorghastrum_nutans,TP_KW-8,TP_KW,8,0.0046097,,5-Apr-22
+Sorghastrum_nutans,TP_KW-9,TP_KW,9,0.0040592,,5-Apr-22
+Sorghastrum_nutans,TP_KW-10,TP_KW,10,0.0033462,,5-Apr-22
 Thelepogon_elegans,TK257-1,TK257,1,0.0067613,,7-Apr-21
 Thelepogon_elegans,TK257-2,TK257,2,0.0077707,,7-Apr-21
 Thelepogon_elegans,TK257-3,TK257,3,0.0071951,,7-Apr-21
@@ -225,26 +345,21 @@ Thelepogon_elegans,TK257-17,TK257,17,0.0065775,,7-Apr-21
 Thelepogon_elegans,TK257-18,TK257,18,0.0072499,,7-Apr-21
 Thelepogon_elegans,TK257-19,TK257,19,0.0069517,,7-Apr-21
 Thelopogon_elegans,TK257-20,TK257,20,0.0074823,,7-Apr-21
-Cymbopogon_refractus,AUB65-1,AUB65,1,0.0013767,,16-Aug-21
-Cymbopogon_refractus,AUB65-2,AUB65,2,0.00141,,16-Aug-21
-Cymbopogon_refractus,AUB65-3,AUB65,3,0.0013225,,16-Aug-21
-Cymbopogon_refractus,AUB65-4,AUB65,4,0.0013665,,16-Aug-21
-Cymbopogon_refractus,AUB65-5,AUB65,5,0.001325,,16-Aug-21
-Cymbopogon_refractus,AUB65-6,AUB65,6,0.0015026,,16-Aug-21
-Cymbopogon_refractus,AUB65-7,AUB65,7,0.0013222,,16-Aug-21
-Cymbopogon_refractus,AUB65-8,AUB65,8,0.0012386,,16-Aug-21
-Cymbopogon_refractus,AUB65-9,AUB65,9,0.0013768,,16-Aug-21
-Cymbopogon_refractus,AUB65-10,AUB65,10,0.0012202,,16-Aug-21
-Coelorachis_tuberculosa,TK199-1,TK199,1,0.0061476,,16-Aug-21
-Coelorachis_tuberculosa,TK199-2,TK199,2,0.005483,,16-Aug-21
-Coelorachis_tuberculosa,TK199-3,TK199,3,0.0053273,,16-Aug-21
-Coelorachis_tuberculosa,TK199-4,TK199,4,0.0058266,,16-Aug-21
-Coelorachis_tuberculosa,TK199-5,TK199,5,0.0055895,,16-Aug-21
-Coelorachis_tuberculosa,TK199-6,TK199,6,0.005351,,16-Aug-21
-Coelorachis_tuberculosa,TK199-7,TK199,7,0.0062431,,16-Aug-21
-Coelorachis_tuberculosa,TK199-8,TK199,8,0.0051064,,16-Aug-21
-Coelorachis_tuberculosa,TK199-9,TK199,9,0.0058763,,16-Aug-21
-Coelorachis_tuberculosa,TK199-10,TK199,10,0.0053307,,16-Aug-21
+Themeda_triandra,TK504-1,TK504,1,0.0049767,,6-Apr-21
+Themeda_triandra,TK504-2,TK504,2,0.003513,,6-Apr-21
+Themeda_triandra,TK504-3,TK504,3,0.0062618,,6-Apr-21
+Themeda_triandra,TK504-4,TK504,4,0.0046422,,6-Apr-21
+Themeda_triandra,TK504-5,TK504,5,0.0043218,,6-Apr-21
+Themeda_triandra,TK504-6,TK504,6,0.0070862,,6-Apr-21
+Themeda_triandra,TK504-7,TK504,7,0.006381,,6-Apr-21
+Themeda_triandra,TK504-8,TK504,8,0.0053483,,6-Apr-21
+Themeda_triandra,TK504-9,TK504,9,0.00504,,6-Apr-21
+Themeda_triandra,TK504-10,TK504,10,0.0041483,,6-Apr-21
+Themeda_triandra,TK504-11,TK504,11,0.0060564,,6-Apr-21
+Themeda_triandra,TK504-12,TK504,12,0.0084682,,6-Apr-21
+Themeda_triandra,TK504-13,TK504,13,0.0045698,,6-Apr-21
+Themeda_triandra,TK504-14,TK504,14,0.0065606,,6-Apr-21
+Themeda_triandra,TK504-15,TK504,15,0.0052606,,6-Apr-21
 Tripsacum_dactyloides,McKain-334-5-1,McKain-334-5,1,0.116333,,16-Aug-21
 Tripsacum_dactyloides,McKain-334-5-2,McKain-334-5,2,0.1291922,,16-Aug-21
 Tripsacum_dactyloides,McKain-334-5-3,McKain-334-5,3,0.1509053,,16-Aug-21
@@ -255,128 +370,13 @@ Tripsacum_dactyloides,McKain-334-5-7,McKain-334-5,7,0.1559774,,16-Aug-21
 Tripsacum_dactyloides,McKain-334-5-8,McKain-334-5,8,0.1559164,,16-Aug-21
 Tripsacum_dactyloides,McKain-334-5-9,McKain-334-5,9,0.164577,,16-Aug-21
 Tripsacum_dactyloides,McKain-334-5-10,McKain-334-5,10,0.1558009,,16-Aug-21
-Sorghastrum_elliottii,PI-674985-1,PI-674985,1,0.0015008,,18-Aug-21
-Sorghastrum_elliottii,PI-674985-2,PI-674985,2,0.0019931,,18-Aug-21
-Sorghastrum_elliottii,PI-674985-3,PI-674985,3,0.0016042,,18-Aug-21
-Sorghastrum_elliottii,PI-674985-4,PI-674985,4,0.0017169,,18-Aug-21
-Sorghastrum_elliottii,PI-674985-5,PI-674985,5,0.0015882,,18-Aug-21
-Sorghastrum_elliottii,PI-674985-6,PI-674985,6,0.0015267,,18-Aug-21
-Sorghastrum_elliottii,PI-674985-7,PI-674985,7,0.0016377,,18-Aug-21
-Sorghastrum_elliottii,PI-674985-8,PI-674985,8,0.0016995,,18-Aug-21
-Sorghastrum_elliottii,PI-674985-9,PI-674985,9,0.0016113,,18-Aug-21
-Sorghastrum_elliottii,PI-674985-10,PI-674985,10,0.0016587,,18-Aug-21
-Arthraxon_hispidus,IC5-Floyd-VA-1,IC5-Floyd-VA,1,0.0004526,,18-Aug-21
-Arthraxon_hispidus,IC5-Floyd-VA-2,IC5-Floyd-VA,2,0.0004716,,18-Aug-21
-Arthraxon_hispidus,IC5-Floyd-VA-3,IC5-Floyd-VA,3,0.0006158,,18-Aug-21
-Arthraxon_hispidus,IC5-Floyd-VA-4,IC5-Floyd-VA,4,0.0004216,,18-Aug-21
-Arthraxon_hispidus,IC5-Floyd-VA-5,IC5-Floyd-VA,5,0.0004173,,18-Aug-21
-Arthraxon_hispidus,IC5-Floyd-VA-6,IC5-Floyd-VA,6,0.0005256,,18-Aug-21
-Arthraxon_hispidus,IC5-Floyd-VA-7,IC5-Floyd-VA,7,0.0004698,,18-Aug-21
-Arthraxon_hispidus,IC5-Floyd-VA-8,IC5-Floyd-VA,8,0.0005614,,18-Aug-21
-Arthraxon_hispidus,IC5-Floyd-VA-9,IC5-Floyd-VA,9,0.0006658,,18-Aug-21
-Arthraxon_hispidus,IC5-Floyd-VA-10,IC5-Floyd-VA,10,0.0004072,,18-Aug-21
-Hyparrhenia_finitima,TK237-6,TK237,6,0.001837,,18-Aug-21
-Hyparrhenia_finitima,TK237-7,TK237,7,0.0018721,,18-Aug-21
-Hyparrhenia_finitima,TK237-8,TK237,8,0.0018176,,18-Aug-21
-Hyparrhenia_finitima,TK237-9,TK237,9,0.0022555,,18-Aug-21
-Hyparrhenia_finitima,TK237-10,TK237,10,0.0020756,,18-Aug-21
-Hyparrhenia_finitima,empty-1,empty,1,0.0012172,,18-Aug-21
-Hyparrhenia_finitima,empty-2,empty,2,0.0011769,,18-Aug-21
-Hyparrhenia_finitima,empty-3,empty,3,0.0010317,,18-Aug-21
-Hyparrhenia_finitima,empty-4,empty,4,0.0010472,,18-Aug-21
-Hyparrhenia_finitima,empty-5,empty,5,0.0010568,,18-Aug-21
-Hyparrhenia_finitima,empty-6,empty,6,0.0009471,,18-Aug-21
-Hyparrhenia_finitima,empty-7,empty,7,0.0004909,,18-Aug-21
-Hyparrhenia_finitima,empty-8,empty,8,0.0014275,,18-Aug-21
-Hyparrhenia_finitima,empty-9,empty,9,0.0012319,,18-Aug-21
-Hyparrhenia_finitima,empty-10,empty,10,0.0006348,,18-Aug-21
-Bothriochloa_laguroides,empty-1,empty,1,0.0022715,,18-Aug-21
-Bothriochloa_laguroides,empty-2,empty,2,0.002912,,18-Aug-21
-Bothriochloa_laguroides,empty-3,empty,3,0.0030218,,18-Aug-21
-Bothriochloa_laguroides,empty-4,empty,4,0.003929,,18-Aug-21
-Bothriochloa_laguroides,empty-5,empty,5,0.001847,,18-Aug-21
-Bothriochloa_laguroides,empty-6,empty,6,0.0031596,,18-Aug-21
-Bothriochloa_laguroides,empty-7,empty,7,0.0030392,,18-Aug-21
-Bothriochloa_laguroides,empty-8,empty,8,0.0027302,,18-Aug-21
-Bothriochloa_laguroides,empty-9,empty,9,0.0022448,,18-Aug-21
-Bothriochloa_laguroides,empty-10,empty,10,0.0025224,,18-Aug-21
-Hyparrhenia_hirta,PI315595-1,PI315595,1,0.0013718,no seeds = ~0.007,4-Apr-22
-Hyparrhenia_hirta,PI315595-2,PI315595,2,0.0012728,,4-Apr-22
-Hyparrhenia_hirta,PI315595-3,PI315595,3,0.0014276,,4-Apr-22
-Hyparrhenia_hirta,PI315595-4,PI315595,4,0.0013732,,4-Apr-22
-Hyparrhenia_hirta,PI315595-5,PI315595,5,0.0013098,,4-Apr-22
-Hyparrhenia_hirta,PI315595-6,PI315595,6,0.0017144,,4-Apr-22
-Hyparrhenia_hirta,PI315595-7,PI315595,7,0.0014849,,4-Apr-22
-Hyparrhenia_hirta,PI315595-8,PI315595,8,0.0013763,,4-Apr-22
-Hyparrhenia_hirta,PI315595-9,PI315595,9,0.0015162,,4-Apr-22
-Hyparrhenia_hirta,PI315595-10,PI315595,10,0.0016517,,4-Apr-22
-Sorghastrum_nutans,TP_KW-1,TP_KW,1,0.0039219,no seeds = ~0.0023,5-Apr-22
-Sorghastrum_nutans,TP_KW-2,TP_KW,2,0.0036703,,5-Apr-22
-Sorghastrum_nutans,TP_KW-3,TP_KW,3,0.0041578,,5-Apr-22
-Sorghastrum_nutans,TP_KW-4,TP_KW,4,0.0044373,,5-Apr-22
-Sorghastrum_nutans,TP_KW-5,TP_KW,5,0.004998,,5-Apr-22
-Sorghastrum_nutans,TP_KW-6,TP_KW,6,0.0042134,,5-Apr-22
-Sorghastrum_nutans,TP_KW-7,TP_KW,7,0.0050292,,5-Apr-22
-Sorghastrum_nutans,TP_KW-8,TP_KW,8,0.0046097,,5-Apr-22
-Sorghastrum_nutans,TP_KW-9,TP_KW,9,0.0040592,,5-Apr-22
-Sorghastrum_nutans,TP_KW-10,TP_KW,10,0.0033462,,5-Apr-22
-Capillipedium_spicigerum,PI301773-1,PI301773,1,0.0007299,no seeds = ~0.0003,5-Apr-22
-Capillipedium_spicigerum,PI301773-2,PI301773,2,0.0007458,,5-Apr-22
-Capillipedium_spicigerum,PI301773-3,PI301773,3,0.0007809,,5-Apr-22
-Capillipedium_spicigerum,PI301773-4,PI301773,4,0.0007758,,5-Apr-22
-Capillipedium_spicigerum,PI301773-5,PI301773,5,0.000756,,5-Apr-22
-Capillipedium_spicigerum,PI301773-6,PI301773,6,0.00078,,5-Apr-22
-Capillipedium_spicigerum,PI301773-7,PI301773,7,0.0008955,,5-Apr-22
-Capillipedium_spicigerum,PI301773-8,PI301773,8,0.0008454,,5-Apr-22
-Capillipedium_spicigerum,PI301773-9,PI301773,9,0.0008021,,5-Apr-22
-Capillipedium_spicigerum,PI301773-10,PI301773,10,0.0008235,,5-Apr-22
-Saccharum_contortum,IC4-VA-1,IC4-Kinsvale-VA,1,0.003924,no seed = ~0.0016,5-Apr-22
-Saccharum_contortum,IC4-VA-2,IC4-Kinsvale-VA,2,0.0042824,,5-Apr-22
-Saccharum_contortum,IC4-VA-3,IC4-Kinsvale-VA,3,0.0032722,,5-Apr-22
-Saccharum_contortum,IC4-VA-4,IC4-Kinsvale-VA,4,0.0036289,,5-Apr-22
-Saccharum_contortum,IC4-VA-5,IC4-Kinsvale-VA,5,0.0033584,,5-Apr-22
-Saccharum_contortum,IC4-VA-6,IC4-Kinsvale-VA,6,0.0033512,,5-Apr-22
-Saccharum_contortum,IC4-VA-7,IC4-Kinsvale-VA,7,0.0033902,,5-Apr-22
-Saccharum_contortum,IC4-VA-8,IC4-Kinsvale-VA,8,0.0025545,,5-Apr-22
-Saccharum_contortum,IC4-VA-9,IC4-Kinsvale-VA,9,0.0024316,,5-Apr-22
-Saccharum_contortum,IC4-VA-10,IC4-Kinsvale-VA,10,0.0024684,,5-Apr-22
-Hyparrhenia_diplandra,TK307-1,TK307-Pasquet1220,1,0.0074054,no seed = ~0.003,5-Apr-22
-Hyparrhenia_diplandra,TK307-2,TK307-Pasquet1220,2,0.0071207,,5-Apr-22
-Hyparrhenia_diplandra,TK307-3,TK307-Pasquet1220,3,0.0070128,,5-Apr-22
-Hyparrhenia_diplandra,TK307-4,TK307-Pasquet1220,4,0.0067301,,5-Apr-22
-Hyparrhenia_diplandra,TK307-5,TK307-Pasquet1220,5,0.0064934,,5-Apr-22
-Hyparrhenia_diplandra,TK307-6,TK307-Pasquet1220,6,0.0063706,,5-Apr-22
-Hyparrhenia_diplandra,TK307-7,TK307-Pasquet1220,7,0.006534,,5-Apr-22
-Hyparrhenia_diplandra,TK307-8,TK307-Pasquet1220,8,0.0066662,,5-Apr-22
-Hyparrhenia_diplandra,TK307-9,TK307-Pasquet1220,9,0.0064987,,5-Apr-22
-Hyparrhenia_diplandra,TK307-10,TK307-Pasquet1220,10,0.0066011,,5-Apr-22
-Andropogon_gerardi,TP_LS-1,TP_LS,1,0.0050252,no seed =~0.0025,6-Apr-22
-Andropogon_gerardi,TP_LS-2,TP_LS,2,0.0058073,,6-Apr-22
-Andropogon_gerardi,TP_LS-3,TP_LS,3,0.0051907,,6-Apr-22
-Andropogon_gerardi,TP_LS-4,TP_LS,4,0.0042467,,6-Apr-22
-Andropogon_gerardi,TP_LS-5,TP_LS,5,0.0058793,,6-Apr-22
-Andropogon_gerardi,TP_LS-6,TP_LS,6,0.0043964,,6-Apr-22
-Andropogon_gerardi,TP_LS-7,TP_LS,7,0.0044074,,6-Apr-22
-Andropogon_gerardi,TP_LS-8,TP_LS,8,0.0052086,,6-Apr-22
-Andropogon_gerardi,TP_LS-9,TP_LS,9,0.0043905,,6-Apr-22
-Andropogon_gerardi,TP_LS-10,TP_LS,10,0.0047074,,6-Apr-22
-Elionurus_tripsacoides,TK198-1,TK198,1,0.0039639,no seed =~0.0025,6-Apr-22
-Elionurus_tripsacoides,TK198-2,TK198,2,0.0035046,,6-Apr-22
-Elionurus_tripsacoides,TK198-3,TK198,3,0.0035607,,6-Apr-22
-Elionurus_tripsacoides,TK198-4,TK198,4,0.0036408,,6-Apr-22
-Elionurus_tripsacoides,TK198-5,TK198,5,0.0037885,,6-Apr-22
-Elionurus_tripsacoides,TK198-6,TK198,6,0.0039705,,6-Apr-22
-Elionurus_tripsacoides,TK198-7,TK198,7,0.0044383,,6-Apr-22
-Elionurus_tripsacoides,TK198-8,TK198,8,0.0052825,,6-Apr-22
-Elionurus_tripsacoides,TK198-9,TK198,9,0.0041746,,6-Apr-22
-Elionurus_tripsacoides,TK198-10,TK198,10,0.0035607,,6-Apr-22
-Pogonatherum_paniceum,TK072-1,TK072-Clark,1,0.0001636,no seed =~0.00011,6-Apr-22
-Pogonatherum_paniceum,TK072-2,TK072-Clark,2,0.0001779,,6-Apr-22
-Pogonatherum_paniceum,TK072-3,TK072-Clark,3,0.0001706,,6-Apr-22
-Pogonatherum_paniceum,TK072-4,TK072-Clark,4,0.0001716,,6-Apr-22
-Pogonatherum_paniceum,TK072-5,TK072-Clark,5,0.0002379,,6-Apr-22
-Pogonatherum_paniceum,TK072-6,TK072-Clark,6,0.0001875,,6-Apr-22
-Pogonatherum_paniceum,TK072-7,TK072-Clark,7,0.0001882,,6-Apr-22
-Pogonatherum_paniceum,TK072-8,TK072-Clark,8,0.0001874,,6-Apr-22
-Pogonatherum_paniceum,TK072-9,TK072-Clark,9,0.0001798,,6-Apr-22
-Pogonatherum_paniceum,TK072-10,TK072-Clark,10,0.0001683,,6-Apr-22
+Zea_mays_ssp._parviglumis,Teosinte,,1,0.0348943,Beadle-ElSalada-1,
+Zea_mays_ssp._parviglumis,Teosinte,,2,0.036886,Beadle-ElSalada-2,
+Zea_mays_ssp._parviglumis,Teosinte,,3,0.0389505,Beadle-ElSalada-3,
+Zea_mays_ssp._parviglumis,Teosinte,,4,0.0347425,Beadle-ElSalada-4,
+Zea_mays_ssp._parviglumis,Teosinte,,5,0.0182238,Beadle-ElSalada-5,
+Zea_mays_ssp._parviglumis,Teosinte,,6,0.0540592,Beadle-ElSalada-6,
+Zea_mays_ssp._parviglumis,Teosinte,,7,0.0517803,Beadle-ElSalada-7,
+Zea_mays_ssp._parviglumis,Teosinte,,8,0.038814,Beadle-ElSalada-8,
+Zea_mays_ssp._parviglumis,Teosinte,,9,0.0205484,Beadle-ElSalada-9,
+Zea_mays_ssp._parviglumis,Teosinte,,10,0.0277813,Beadle-ElSalada-10,
