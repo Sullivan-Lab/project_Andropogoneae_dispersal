@@ -1,5 +1,5 @@
 ---
-title: "Andropogonae Dispersal Trait Sensitivity Analysis"
+title: "Andropogoneae Dispersal Trait Sensitivity Analysis"
 author: "Binbin Wang, Elizabeth Kellogg, Kurt Petersen, Huijie Wu, Lauren Sullivan"
 date: 'Last updated: `r Sys.Date()`'
 output:
@@ -32,7 +32,7 @@ This is to determine how many seeds we need to drop to reach the mean and varian
 # AUTHOR:  Lauren Sullivan (llsull@msu.edu)
 # COLLAB:  Toby Kellogg, Kurt Petersen, Binbin Wang, Huijie Wu
 # CREATED: 7 April 2021
-# LATEST:  8 Oct 2024
+# LATEST:  22 April 2025
 # NOTES:   
 #
 # FILES:   "terminal_velocity.csv" - tv and mass data for all dropped seeds
