@@ -12,7 +12,7 @@
 
 ## Introduction
 
-[*Repository for code and data associated with the manuscript "Wind Dispersal of Grasses in the Andropogoneae." Seed mass data is stored here, as well as code to execute the terminal velocity sensitivity analysis, and code that summarize data from GBIF and BioClim*]  
+*Repository for code and data associated with the manuscript "Wind Dispersal of Grasses in the Andropogoneae." Seed mass data is stored here, as well as code to execute the terminal velocity sensitivity analysis, and code that summarize data from GBIF and BioClim*
 
 ## Usage
 
